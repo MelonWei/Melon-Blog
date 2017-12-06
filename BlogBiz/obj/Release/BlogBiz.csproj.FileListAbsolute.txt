@@ -1,0 +1,13 @@
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\BlogBiz.dll
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\BlogBiz.pdb
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\BlogModel.dll
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\EntityFramework.dll
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\EntityFramework.SqlServer.dll
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\Newtonsoft.Json.dll
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\BlogModel.pdb
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\EntityFramework.xml
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\bin\Release\Newtonsoft.Json.xml
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\obj\Release\BlogBiz.csprojResolveAssemblyReference.cache
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\obj\Release\BlogBiz.dll
+D:\Projects\MelonLab\MelonBlogs\BlogBiz\obj\Release\BlogBiz.pdb

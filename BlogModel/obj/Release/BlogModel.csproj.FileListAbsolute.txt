@@ -1,0 +1,7 @@
+D:\Projects\MelonLab\MelonBlogs\BlogModel\bin\Release\BlogModel.dll
+D:\Projects\MelonLab\MelonBlogs\BlogModel\bin\Release\BlogModel.pdb
+D:\Projects\MelonLab\MelonBlogs\BlogModel\bin\Release\Newtonsoft.Json.dll
+D:\Projects\MelonLab\MelonBlogs\BlogModel\bin\Release\Newtonsoft.Json.xml
+D:\Projects\MelonLab\MelonBlogs\BlogModel\obj\Release\BlogModel.dll
+D:\Projects\MelonLab\MelonBlogs\BlogModel\obj\Release\BlogModel.pdb
+D:\Projects\MelonLab\MelonBlogs\BlogModel\obj\Release\BlogModel.csprojResolveAssemblyReference.cache
