@@ -21,11 +21,12 @@ namespace MelonBlogs
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.min.js",
+                      "~/Scripts/popper.min.js",
+                      "~/Scripts/bootstrap_v3.min.js",
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.min.css",
+                      "~/Content/bootstrap_v3.min.css",
                       //"~/Content/bootstrap-combined.min.css",
                       "~/Content/site.css"));
         }
