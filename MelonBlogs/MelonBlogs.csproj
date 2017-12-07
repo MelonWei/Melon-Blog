@@ -175,6 +175,7 @@
     <Content Include="img\2.jpg" />
     <Content Include="img\3.jpg" />
     <Content Include="img\favicon.png" />
+    <Content Include="Scripts\analytics.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\bootstrap_v3.min.js" />
     <Content Include="package.json" />
@@ -224,7 +225,8 @@
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="Scripts\classie.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
-    <Content Include="Scripts\jquery-2.0.0.min.js" />
+    <Content Include="Scripts\jquery-1.12.4.min.js" />
+    <Content Include="Scripts\jquery-3.2.1.min.js" />
     <Content Include="Scripts\jquery-slim.min.js" />
     <Content Include="Scripts\jquery.htmlClean.js" />
     <Content Include="Scripts\jquery.min.js" />

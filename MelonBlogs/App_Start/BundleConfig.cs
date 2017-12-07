@@ -9,8 +9,8 @@ namespace MelonBlogs
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/jquery.min.js",
-                        "~/Scripts/jquery.htmlClean.js"));
+                        "~/Scripts/jquery-3.2.1.min.js"
+                       ));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));
@@ -21,7 +21,6 @@ namespace MelonBlogs
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/popper.min.js",
                       "~/Scripts/bootstrap_v3.min.js",
                       "~/Scripts/respond.js"));
 
